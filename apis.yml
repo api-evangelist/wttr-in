@@ -39,7 +39,6 @@ apis:
   - name: wttr.in
     description: "Weather in your terminal, supports JSON output"
     humanURL: https://wttr.in/:help
-    baseURL: https://wttr.in/:help
     tags:
       - Weather
     properties:
